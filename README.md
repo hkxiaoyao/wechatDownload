@@ -4,9 +4,9 @@
 
 支持下载微信公众号的历史消息，可以保存文章为html/mhtml/md/pdf/docx/csv表格文件，支持评论、合集下载，保存文章内图片、视频、音频文件，支持 MCP 和 Skill 调用
 
-<img width="1248" height="884" alt="image" src="https://github.com/user-attachments/assets/f43feedb-c47f-43a5-9c8b-29266a23447d" />
+<img width="1246" height="887" alt="image" src="https://github.com/user-attachments/assets/757f0ed0-ca79-4710-9c02-43cef65ac4e5" />
 
-4.5 更新：更新Mac版本；支持评论保存图片；放宽标题长度限制；优化MCP功能
+4.6更新：修复获取不到密钥、纯文本格式下载失败的问题；优化文件开头日期格式；MCP功能支持监听0.0.0.0地址，支持WSL调用
 
 欢迎关注公众号：长风的储物柜，获取最新更新消息🥳
 
@@ -38,6 +38,9 @@
 
 
 # 更新日志：
+
+4.5 更新：更新Mac版本；支持评论保存图片；放宽标题长度限制；优化MCP功能
+
 4.4 更新：新增 MCP 和 Skill 调用，支持下载文章/合集、获取公众号ID、批量下载文章、导出文章数据；修复获取密钥后，单篇文章评论下载失败的问题
 
 4.3更新：修复图文格式下载失败、下载文件夹位置错误的问题；优化下载文章的格式；更新网页版本
